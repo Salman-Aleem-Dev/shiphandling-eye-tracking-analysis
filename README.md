@@ -62,7 +62,7 @@ Researchers needing the underlying data should contact the author; any release i
 ## Reproducing the analysis
 
 ```bash
-git clone https://github.com/[your-username]/shiphandling-eye-tracking-analysis.git
+git clone https://github.com/salman-aleem-dev/shiphandling-eye-tracking-analysis.git
 cd shiphandling-eye-tracking-analysis
 pip install -r requirements.txt
 jupyter lab        # open notebooks/ and run top to bottom
